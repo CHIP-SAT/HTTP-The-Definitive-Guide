@@ -6,8 +6,8 @@
 ### 스터디 일정
 | 　 | 　 | 　스터디 날짜　 | 　비고　 |
 |:---|:---|:---:|:---:|
-| 1부 HTTP: 웹의 기초 | 　 | 　 | 　 |
-|  |  01장 HTTP 개관 |  |  |
+| [1부 HTTP: 웹의 기초](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/tree/main/01_HTTP_The_Webs_Foundation) | 　 | 　 | 　 |
+|  |  01장 HTTP 개관 | 25.07.22 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/01_Overview_of_HTTP.md) |
 |  |  02장 URL과 리소스 |  |  |
 |  |  03장 HTTP 메시지 |  |  |
 |  |  04장 커넥션 관리 |  |  |
