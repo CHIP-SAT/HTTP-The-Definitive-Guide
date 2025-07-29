@@ -8,8 +8,8 @@
 |:---|:---|:---:|:---:|
 | [1부 HTTP: 웹의 기초](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/tree/main/01_HTTP_The_Webs_Foundation) | 　 | 　 | 　 |
 |  |  01장 HTTP 개관 | 25.07.22 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/01_Overview_of_HTTP.md) |
-|  |  02장 URL과 리소스 |  |  |
-|  |  03장 HTTP 메시지 |  |  |
+|  |  02장 URL과 리소스 | 25.07.25 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/02_URLs_and_Resources.md) |
+|  |  03장 HTTP 메시지 | 25.07.29 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/03_HTTP_Messages.md) |
 |  |  04장 커넥션 관리 |  |  |
 |||||
 | 2부 HTTP 아키텍처 | 　 | 　 | 　 |
