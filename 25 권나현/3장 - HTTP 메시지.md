@@ -200,6 +200,44 @@ EX) LOCK(잠금), MKCOL(문서생성), COPY(복사), MOVE(옮김)
 303 See Other: 다른 URI에서 리소스를 GET 요청으로 확인하라는 의미.  
 304 Not Modified: 리소스가 수정되지 않아 캐시된 버전을 사용해도 됨.  
 305 Use Proxy: 요청한 리소스는 반드시 프록시를 통해 접근해야 함. (현재는 는 크게 다섯 가지로 분류됨: 일반 헤더, 요청 헤더, 응답 헤더, 엔터티 헤더, 확장 헤더  
+305 Use Proxy: 요청한 리소스는 반드시 프록시를 통해 접근해야 함. (현재는 사용 안 함)  
+306 (사용되지 않음): 과거에 사용됐으나 현재는 정의되어 있지 않음.  
+307 Temporary Redirect: 리소스가 일시적으로 다른 URI에 있으며, 요청 방식은 그대로 유지해야 함.  
+
+> 3.4.4 400-499: 클라이언트 에러 상태 코드  
+
+400 Bad Request: 잘못된 문법으로 인해 서버가 요청을 이해할 수 없음.  
+401 Unauthorized: 인증이 필요하며, 유효한 인증 정보가 없음.  
+402 Payment Required: 결제가 필요함 (실제로는 거의 사용되지 않음).  
+403 Forbidden: 서버가 요청을 이해했지만, 권한 때문에 거부함.  
+404 Not Found: 요청한 리소스를 서버에서 찾을 수 없음.  
+405 Method Not Allowed: 요청에 사용된 HTTP 메서드가 허용되지 않음.  
+406 Not Acceptable: 요청한 콘텐츠 형식이 서버에서 제공 불가함.  
+407 Proxy Authentication Required: 프록시 서버 인증이 필요함.  
+408 Request Timeout: 서버가 클라이언트의 요청을 시간 내에 받지 못함.  
+409 Conflict: 요청이 현재 서버 상태와 충돌함.  
+410 Gone: 리소스가 영구적으로 삭제되어 사용할 수 없음.  
+411 Length Required: 요청에 Content-Length 헤더가 필요함.  
+412 Precondition Failed: 조건이 충족되지 않아 요청이 실패함.  
+413 Payload Too Large: 요청 본문이 서버가 처리할 수 있는 크기를 초과함.  
+414 URI Too Long: 요청 URI가 너무 길어 서버가 처리할 수 없음.  
+415 Unsupported Media Type: 요청한 미디어 타입을 서버가 지원하지 않음.  
+416 Range Not Satisfiable: 요청한 범위가 리소스의 범위를 벗어남.  
+417 Expectation Failed: Expect 헤더의 기대 조건을 서버가 충족할 수 없음.  
+
+> 3.4.5 500-599: 서버 에러 상태 코드  
+
+500 Internal Server Error: 서버 내부 오류로 인해 요청을 처리할 수 없음.  
+501 Not Implemented: 서버가 요청한 기능을 지원하지 않음.  
+502 Bad Gateway: 게이트웨이 또는 프록시 서버가 잘못된 응답을 받음.  
+503 Service Unavailable: 서버가 일시적으로 과부하나 점검 중이라 사용 불가함.  
+504 Gateway Timeout: 게이트웨이 또는 프록시 서버가 응답을 기다리다 시간 초과됨.  
+505 HTTP Version Not Supported: 서버가 요청에 사용된 HTTP 버전을 지원하지 않음.  
+ 
+## 3.5 헤더  
+헤더와 메서드: 클라이언트와 서버가 뭘 하는지 결정하기 위해 함께 사용  
+헤더의 종류: 특정 종류의 메서드에만 사용 가능한 헤더, 일반 목적으로 사용 가능한 헤더, 응답과 요청 메시지 양쪽 모두에서 정보 제공하는 헤더  
+헤더는 크게 다섯 가지로 분류됨: 일반 헤더, 요청 헤더, 응답 헤더, 엔터티 헤더, 확장 헤더  
 
 > 3.5.1 일반 헤더
 
