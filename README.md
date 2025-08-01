@@ -1,4 +1,6 @@
 ### HTTP-The-Definitive-Guide
+> <img width="258" height="355" alt="image" src="https://github.com/user-attachments/assets/cf800254-3856-48e3-8f5f-53c51b0e1c51" />
+>
 > HTTP 완벽 가이드 - 데이빗 고울리, 브라이언 토티, 마조리 세이어, 세일루 레디, 안슈 아가왈 저자(글) · 이응준, 정상일 번역
 
 ##
@@ -10,7 +12,7 @@
 |  |  01장 HTTP 개관 | 25.07.22 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/01_Overview_of_HTTP.md) |
 |  |  02장 URL과 리소스 | 25.07.25 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/02_URLs_and_Resources.md) |
 |  |  03장 HTTP 메시지 | 25.07.29 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/03_HTTP_Messages.md) |
-|  |  04장 커넥션 관리 |  |  |
+|  |  04장 커넥션 관리 | 25.08.01 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/04_Connection_Management.md) |
 |||||
 | 2부 HTTP 아키텍처 | 　 | 　 | 　 |
 |  |  05장 웹 서버 |  |  |
