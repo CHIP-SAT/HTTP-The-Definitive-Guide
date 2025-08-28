@@ -15,12 +15,12 @@
 |  |  04장 커넥션 관리 | 25.08.01 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/04_Connection_Management.md) |
 |||||
 | 2부 HTTP 아키텍처 | 　 | 　 | 　 |
-|  |  05장 웹 서버 |  |  |
-|  |  06장 프락시 |  |  |
-|  |  07장 캐시 |  |  |
-|  |  08장 통합점: 게이트웨이, 터널, 릴레이 |  |  |
-|  |  09장 웹 로봇 |  |  |
-|  |  10장 HTTP/2.0 |  |  |
+|  |  05장 웹 서버 | 25.08.05 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/05_Web_Servers.md) |
+|  |  06장 프락시 | 25.08.10 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/06_Proxies.md) |
+|  |  07장 캐시 | 25.08.19 |  |
+|  |  08장 통합점: 게이트웨이, 터널, 릴레이 | 25.08.22 |  |
+|  |  09장 웹 로봇 | - | - |
+|  |  10장 HTTP/2.0 | 25.08.29 |  |
 |||||
 | 3부 식별, 인가, 보안 | 　 | 　 | 　 |
 |  |  11장 클라이언트 식별과 쿠키 |  |  |
