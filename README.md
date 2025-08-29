@@ -14,11 +14,11 @@
 |  |  03장 HTTP 메시지 | 25.07.29 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/03_HTTP_Messages.md) |
 |  |  04장 커넥션 관리 | 25.08.01 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/01_HTTP_The_Webs_Foundation/04_Connection_Management.md) |
 |||||
-| 2부 HTTP 아키텍처 | 　 | 　 | 　 |
+| [2부 HTTP 아키텍처](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/tree/main/02_HTTP_Architecture) | 　 | 　 | 　 |
 |  |  05장 웹 서버 | 25.08.05 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/05_Web_Servers.md) |
 |  |  06장 프락시 | 25.08.10 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/06_Proxies.md) |
-|  |  07장 캐시 | 25.08.19 |  |
-|  |  08장 통합점: 게이트웨이, 터널, 릴레이 | 25.08.22 |  |
+|  |  07장 캐시 | 25.08.19 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/07_Caching.md) |
+|  |  08장 통합점: 게이트웨이, 터널, 릴레이 | 25.08.22 | [스터디 내용](https://github.com/CHIP-SAT/HTTP-The-Definitive-Guide/blob/main/02_HTTP_Architecture/08_Integration_Points.md) |
 |  |  09장 웹 로봇 | - | - |
 |  |  10장 HTTP/2.0 | 25.08.29 |  |
 |||||
